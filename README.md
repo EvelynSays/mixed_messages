@@ -2,7 +2,7 @@
 
 This repository contains a JavaScript file that can be executed using Node.js. 
 
-**<u>The JavaScript file will generate a random Pokemon themed message for you!</u>**
+***The JavaScript file will generate a random Pokemon themed message for you!***
 
 Follow the steps below to run the file on your local machine:
 
