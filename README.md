@@ -31,7 +31,6 @@ Follow the steps below to run the file on your local machine:
      ```
      node mixed_messages.js
      ```
-   - Replace `filename.js` with the actual name of your JavaScript file.
 
 4. **View Output:**
    - You'll see the output of your JavaScript code in the terminal.
